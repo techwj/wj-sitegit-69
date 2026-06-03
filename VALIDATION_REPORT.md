@@ -1,0 +1,88 @@
+# Validation Report - ancient-town-wandering-guide
+
+Generated: 2026-06-02T19:22:14.086143
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: The Ultimate Guide to Beginner Ancient Town Wandering Guide
+- ✓ Article word count OK: Beginner Ancient Town Wandering Guide: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner Ancient Town Wandering Guide
+- ✓ Article word count OK: Beginner Ancient Town Wandering Guide Tips and Best Practices
+- ✓ Article word count OK: The History of Beginner Ancient Town Wandering Guide
+- ✓ Article word count OK: Beginner Ancient Town Wandering Guide in 2026: Current Trends
+- ✓ Article word count OK: Future of Beginner Ancient Town Wandering Guide
+- ✓ Article word count OK: Common Mistakes in Beginner Ancient Town Wandering Guide
+- ✓ Article word count OK: Beginner Ancient Town Wandering Guide for Beginners
+- ✓ Article word count OK: Advanced Beginner Ancient Town Wandering Guide Techniques
+- ✓ Article word count OK: The Ultimate Guide to Advanced Ancient Town Wandering Guide
+- ✓ Article word count OK: Advanced Ancient Town Wandering Guide: Everything You Need to Know
+- ✓ Article word count OK: Understanding Advanced Ancient Town Wandering Guide
+- ✓ Article word count OK: Advanced Ancient Town Wandering Guide Tips and Best Practices
+- ✓ Article word count OK: The History of Advanced Ancient Town Wandering Guide
+- ✓ Article word count OK: Advanced Ancient Town Wandering Guide in 2026: Current Trends
+- ✓ Article word count OK: Future of Advanced Ancient Town Wandering Guide
+- ✓ Article word count OK: Common Mistakes in Advanced Ancient Town Wandering Guide
+- ✓ Article word count OK: Advanced Ancient Town Wandering Guide for Beginners
+- ✓ Article word count OK: Advanced Advanced Ancient Town Wandering Guide Techniques
+- ✓ Article word count OK: The Ultimate Guide to Ancient Town Wandering Guide Tips
+- ✓ Article word count OK: Ancient Town Wandering Guide Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding Ancient Town Wandering Guide Tips
+- ✓ Article word count OK: Ancient Town Wandering Guide Tips Tips and Best Practices
+- ✓ Article word count OK: The History of Ancient Town Wandering Guide Tips
+- ✓ Article word count OK: Ancient Town Wandering Guide Tips in 2026: Current Trends
+- ✓ Article word count OK: Future of Ancient Town Wandering Guide Tips
+- ✓ Article word count OK: Common Mistakes in Ancient Town Wandering Guide Tips
+- ✓ Article word count OK: Ancient Town Wandering Guide Tips for Beginners
+- ✓ Article word count OK: Advanced Ancient Town Wandering Guide Tips Techniques
+- ✓ Article word count OK: The Ultimate Guide to Ancient Town Wandering Guide History
+- ✓ Article word count OK: Ancient Town Wandering Guide History: Everything You Need to Know
+- ✓ Article word count OK: Understanding Ancient Town Wandering Guide History
+- ✓ Article word count OK: Ancient Town Wandering Guide History Tips and Best Practices
+- ✓ Article word count OK: The History of Ancient Town Wandering Guide History
+- ✓ Article word count OK: Ancient Town Wandering Guide History in 2026: Current Trends
+- ✓ Article word count OK: Future of Ancient Town Wandering Guide History
+- ✓ Article word count OK: Common Mistakes in Ancient Town Wandering Guide History
+- ✓ Article word count OK: Ancient Town Wandering Guide History for Beginners
+- ✓ Article word count OK: Advanced Ancient Town Wandering Guide History Techniques
+- ✓ Article word count OK: The Ultimate Guide to Trending Ancient Town Wandering Guide
+- ✓ Article word count OK: Trending Ancient Town Wandering Guide: Everything You Need to Know
+- ✓ Article word count OK: Understanding Trending Ancient Town Wandering Guide
+- ✓ Article word count OK: Trending Ancient Town Wandering Guide Tips and Best Practices
+- ✓ Article word count OK: The History of Trending Ancient Town Wandering Guide
+- ✓ Article word count OK: Trending Ancient Town Wandering Guide in 2026: Current Trends
+- ✓ Article word count OK: Future of Trending Ancient Town Wandering Guide
+- ✓ Article word count OK: Common Mistakes in Trending Ancient Town Wandering Guide
+- ✓ Article word count OK: Trending Ancient Town Wandering Guide for Beginners
+- ✓ Article word count OK: Advanced Trending Ancient Town Wandering Guide Techniques
+- ✓ Article word count OK: The Ultimate Guide to Ancient Town Wandering Guide Tutorials
+- ✓ Article word count OK: Ancient Town Wandering Guide Tutorials: Everything You Need to Know
+- ✓ Article word count OK: Understanding Ancient Town Wandering Guide Tutorials
+- ✓ Article word count OK: Ancient Town Wandering Guide Tutorials Tips and Best Practices
+- ✓ Article word count OK: The History of Ancient Town Wandering Guide Tutorials
+- ✓ Article word count OK: Ancient Town Wandering Guide Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Future of Ancient Town Wandering Guide Tutorials
+- ✓ Article word count OK: Common Mistakes in Ancient Town Wandering Guide Tutorials
+- ✓ Article word count OK: Ancient Town Wandering Guide Tutorials for Beginners
+- ✓ Article word count OK: Advanced Ancient Town Wandering Guide Tutorials Techniques
+- ✓ Ad configuration validated
